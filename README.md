@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/chandranil1603" target="blank"><img src="https://img.shields.io/twitter/follow/chandranil1603?logo=twitter&style=for-the-badge" alt="chandranil1603" /></a> </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> I’m currently working on **my skills for finding jobs and internships**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> I’m currently working on **my skills for finding jobs and internships...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **both Front-end & Back-end Web Development, and Data Structures and Algorithms (using JAVA) and also exploring the field of Machine Learning...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> I’m looking to collaborate on **Open Source Projects...**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m willing **to build projects for participating in hackathons to showcase my skills**
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Find me on LinkedIN : [https://www.linkedin.com/in/chandranil-adhikary-8b8862250/](https://www.linkedin.com/in/chandranil-adhikary-8b8862250/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m willing **to build projects for participating in hackathons to showcase my skills...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as C, Java, Python, MERN Stack and frameworks such as REACTJS using Vite, and Tailwind CSS...**
+  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Find me on LinkedIN : [https://www.linkedin.com/in/chandranil-adhikary-8b8862250/](https://www.linkedin.com/in/chandranil-adhikary-8b8862250/)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> How to reach me : **chandraniladhikary16dec2003@gmail.com**
 
