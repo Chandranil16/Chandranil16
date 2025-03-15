@@ -26,11 +26,17 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> SOCIALS:
 <p align="left">
 <a href="https://twitter.com/chandranil1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandranil1603" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chandranil-adhikary-8b8862250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandranil-adhikary-8b8862250/" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29975968/chandranil-adhikary?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29975968/chandranil-adhikary?tab=profile" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/https://www.kaggle.com/chandraniladhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandraniladhikary" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/https://leetcode.com/u/chandranil16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chandranil16/" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chandraniladhifvzw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/chandraniladhifvzw/" height="30" width="40" /></a>
+
 </p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> TECH STACK:
