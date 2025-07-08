@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> I'm Chandranil Adhikary</h1>
-<h3 align="center">B.Tech 3rd Year CSE(AI)|| Winner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> of SIH Internal Hackathon 2024 || GDG On Campus BBIT AI/ML lead || Coder || Java || Python || MERN STACK || DSA in JAVA || Github || Google Cloud Platform || AI/ML</h3>
+<h3 align="center">B.Tech 4th Year CSE(AI)|| Winner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> of SIH Internal Hackathon 2024 || Ex-GDG On Campus BBIT AI/ML lead || Coder || Java || Python || MERN STACK || DSA in JAVA || Github || Google Cloud Platform || AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranil16&label=Profile%20views&color=0e75b6&style=flat" alt="chandranil16" /> </p>
 
@@ -7,13 +7,13 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> I’m currently working on **my skills for finding jobs and internships...**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **both Front-end & Back-end Web Development, and Data Structures and Algorithms (using JAVA) and also exploring the field of Machine Learning...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **Full-stack Web Development, building AI-driven applications, practicing Data Structures and Algorithms (using JAVA), solving problems on Leetcode, and also exploring the field of working with LLM's, integrating AI-agents into applications, learning various frameworks, deployment,etc...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> I’m looking to collaborate on **Open Source Projects...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m willing **to build projects for participating in hackathons to showcase my skills...**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as C, Java, Python, MERN Stack and frameworks such as REACTJS using Vite, and Tailwind CSS...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as Java, Python, and frameworks such as React.js using Vite, and Tailwind CSS, Express.js, Node.js, and NoSQL databases such as Mongodb, LLM's, version control such as Github...**
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Find me on LinkedIN : [https://www.linkedin.com/in/chandranil-adhikary-8b8862250/](https://www.linkedin.com/in/chandranil-adhikary-8b8862250/)
 
