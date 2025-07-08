@@ -17,7 +17,7 @@
   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Find me on LinkedIN : [https://www.linkedin.com/in/chandranil-adhikary-8b8862250/](https://www.linkedin.com/in/chandranil-adhikary-8b8862250/)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> How to reach me : **chandraniladhikary16dec2003@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> How to reach me : **chandranil.adhikary16@gmail.com**
 
 --- HACKTOBERFEST 2023 BADGES ---
   
