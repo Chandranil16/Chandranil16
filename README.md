@@ -7,13 +7,13 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> I’m currently working on **my skills for finding jobs and internships...**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **Full-stack Web Development, building AI-driven applications, practicing Data Structures and Algorithms (using JAVA), solving problems on Leetcode, and also exploring the field of working with LLM's, integrating AI-agents into applications, learning various frameworks, deployment,etc...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **Full-stack Web Development using MERN stack, building AI-driven applications, practicing Data Structures and Algorithms (using JAVA), solving problems on Leetcode, and also understanding concepts of machine learning, deep learning, large language models, learning various frameworks, deployment,etc...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> I’m looking to collaborate on **Open Source Projects...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m willing **to build projects for participating in hackathons to showcase my skills...**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as Java, Python, and frameworks such as React.js using Vite, and Tailwind CSS, Express.js, Node.js, and NoSQL databases such as Mongodb, LLM's, version control such as Github...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as Java, Python, Javascript, and frameworks such as React.js, and Tailwind CSS, Express.js, Node.js, and NoSQL databases such as Mongodb, LLM's, cloud services such as Google Cloud Platform (GCP), version control such as Github...**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Visit my website : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
   
@@ -41,9 +41,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandranil16&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chandranil16&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
   
 ![](https://github-contributor-stats.vercel.app/api?username=Chandranil16&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
