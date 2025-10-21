@@ -44,11 +44,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandranil16&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Top Contribution
   
 ![](https://github-contributor-stats.vercel.app/api?username=Chandranil16&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
