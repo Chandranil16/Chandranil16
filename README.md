@@ -42,7 +42,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandranil16&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
-![](https://github-contributor-stats.vercel.app/api?username=Chandranil16&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandranil16&icon=5&color=0)](https://visitcount.itsvg.in)
