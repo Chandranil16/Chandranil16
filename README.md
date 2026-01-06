@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranil16&label=Profile%20views&color=0e75b6&style=flat" alt="chandranil16" /> </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> **Hi, I am Chandranil Adhikary, a Final-year B.Tech student pursuing Computer Science & Engineering (Artificial Intelligence) with strong hands-on experience in Full-Stack Web Development and AI-driven application development.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> **I am a final-year B.Tech student pursuing Computer Science & Engineering (Artificial Intelligence) with strong hands-on experience in Full-Stack Web Development and AI-driven application development.**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **I am proficient in building scalable, production-ready applications and has knowledge in programming languages such as Java, JavaScript, Python, SQL, and modern frameworks such as React, Tailwind CSS, Node.js, Express.js, and MongoDB. Experienced in working with LLMs, Generative AI, and integrating AI capabilities into real-world platforms.**
 
@@ -13,17 +13,17 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> **I am currently seeking internships and full-time opportunities to apply my skills, gain industry exposure, and contribute to innovative software development.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Portfolio : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> **Portfolio** : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Contact : **chandranil.adhikary16@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> **Contact** : **chandranil.adhikary16@gmail.com**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> SOCIALS:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> **Connections**:
 <p align="left">
 <a href="https://linkedin.com/in/chandranil-adhikary-8b8862250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandranil-adhikary-8b8862250/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/chandranil16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chandranil16/" height="30" width="40" /></a>
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="25" height="25" /> GITHUB STATS:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="25" height="25" /> **Github Stats**:
   
 ![](https://github-readme-stats.vercel.app/api?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandranil16&theme=midnight-purple&hide_border=false)<br/>
