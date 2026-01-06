@@ -1,35 +1,28 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> I'm Chandranil Adhikary</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> I'm Chandranil Adhikary </h1>
 <h3 align="center">B.Tech 4th Year CSE(AI)|| Winner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> of SIH Internal Hackathon 2024 || Grand Finalist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> of HACK-O-NiT'25 || Java || Python || MERN STACK || Github || Google Cloud Platform || AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranil16&label=Profile%20views&color=0e75b6&style=flat" alt="chandranil16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chandranil1603" target="blank"><img src="https://img.shields.io/twitter/follow/chandranil1603?logo=twitter&style=for-the-badge" alt="chandranil1603" /></a> </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> I’m currently working on **my skills for finding jobs and internships...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" /> **Hi, I am Chandranil Adhikary a Final-year B.Tech student pursuing Computer Science & Engineering (Artificial Intelligence) with strong hands-on experience in Full-Stack Web Development and AI-driven application development.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> I’m currently learning **Full-stack Web Development using MERN stack, building AI-driven applications, practicing Data Structures and Algorithms (using JAVA), solving problems on Leetcode, and also understanding concepts of machine learning, deep learning, large language models, learning various frameworks, deployment,etc...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **I am proficient in building scalable, production-ready applications and has knowledge in programming languages such as Java, JavaScript, Python, SQL, and modern frameworks such as React, Tailwind CSS, Node.js, Express.js, and MongoDB. Experienced in working with LLMs, Generative AI, and integrating AI capabilities into real-world platforms.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> I’m looking to collaborate on **Open Source Projects...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> **I am actively interested in exploring Cloud Computing and DevOps, with practical exposure to Google Cloud Platform (GCP), and version control using Git & GitHub.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m willing **to build projects for participating in hackathons to showcase my skills...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **I am passionate about hackathons, tech events, continuous learning, and building impactful projects that solve real-world problems. Always eager to learn emerging technologies and enhance technical depth.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Ask me about **programming languages such as Java, Python, Javascript, and frameworks such as React.js, and Tailwind CSS, Express.js, Node.js, and NoSQL databases such as Mongodb, LLM's, cloud services such as Google Cloud Platform (GCP), version control such as Github...**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> **I am currently seeking internship and full-time opportunities to apply my skills, gain industry exposure, and contribute to innovative software development.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Visit my website : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
-  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Find me on LinkedIN : [https://www.linkedin.com/in/chandranil-adhikary-8b8862250/](https://www.linkedin.com/in/chandranil-adhikary-8b8862250/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Portfolio : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> How to reach me : **chandranil.adhikary16@gmail.com**
-
---- HACKTOBERFEST 2023 BADGES ---
-  
-- <br>[![An image of @chandranil16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandranil16)](https://holopin.io/@chandranil16)<br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Contact : **chandranil.adhikary16@gmail.com**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> SOCIALS:
 <p align="left">
 <a href="https://x.com/chandranil1603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandranil1603" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandranil-adhikary-8b8862250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandranil-adhikary-8b8862250/" height="30" width="40" /></a>
-<a href="https://kaggle.com/chandraniladhikary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chandraniladhikary" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/chandranil16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chandranil16/" height="30" width="40" /></a>
 </p>
 
