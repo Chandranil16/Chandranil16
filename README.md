@@ -23,7 +23,7 @@
 <a href="https://leetcode.com/u/chandranil16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chandranil16/" height="30" width="40" /></a>
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="25" height="25" /> **Github Stats**:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="25" height="25" /> Github Stats:
   
 ![](https://github-readme-stats.vercel.app/api?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandranil16&theme=midnight-purple&hide_border=false)<br/>
