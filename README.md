@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> I'm Chandranil Adhikary </h1>
-<h3 align="center">B.Tech 4th Year CSE(AI)|| Winner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> of SIH Internal Hackathon 2024 || Grand Finalist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> of HACK-O-NiT'25 || Java || Python || MERN STACK || Github || Cloud Computing || AI/ML & Generative AI </h3>
+<h3 align="center">B.Tech 4th Year CSE(AI)|| Winner <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> of SIH Internal Hackathon 2024 || Grand Finalist <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /> of HACK-O-NiT'25 || Java || Python || SQL || MERN STACK || Github || Cloud Computing || AI/ML & Generative AI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandranil16&label=Profile%20views&color=0e75b6&style=flat" alt="chandranil16" /> </p>
 
@@ -11,11 +11,11 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> **I am passionate about hackathons, tech events, continuous learning, and building impactful projects that solve real-world problems. Always eager to learn emerging technologies and enhance technical depth.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> **I am currently seeking internships and full-time opportunities to apply my skills, gain industry exposure, and contribute to innovative software development.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> **I am currently seeking internships and full-time opportunities to apply my skills, gain industry exposure, and contribute to innovative software development.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Portfolio : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Portfolio : [https://personal-portfolio-3fmu.onrender.com](https://personal-portfolio-3fmu.onrender.com)
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Contact : **chandranil.adhikary16@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> Contact : **chandranil.adhikary16@gmail.com**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> SOCIALS:
 <p align="left">
