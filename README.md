@@ -25,7 +25,6 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eleven O’Clock.png" alt="Eleven O’Clock" width="25" height="25" /> Github Stats:
   
-![](https://github-readme-stats.vercel.app/api?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Chandranil16&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandranil16&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
