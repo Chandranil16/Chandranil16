@@ -17,5 +17,3 @@
 - **LinkedIn** : [linkedin.com/in/chandranil-adhikary](https://linkedin.com/in/chandranil-adhikary-8b8862250/)
 
 - **LeetCode** : [leetcode.com/u/Chandranil16](https://leetcode.com/u/Chandranil16/)
----
-[![](https://visitcount.itsvg.in/api?id=Chandranil16&icon=5&color=0)](https://visitcount.itsvg.in)
