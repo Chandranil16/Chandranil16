@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Chandranil Adhikary </h1>
 <h3 align="center">B.Tech 4th Year CSE(AI)|| Winner of SIH Internal Hackathon 2024 || Grand Finalist of HACK-O-NiT'25 || Java || Python || SQL || MERN STACK || Github || Cloud Computing || AI/ML & Generative AI </h3>
 
-<p align="left"></p>
-
 - **I am a final-year B.Tech student pursuing Computer Science & Engineering (Artificial Intelligence) with strong hands-on experience in Full-Stack Web Development and AI-driven application development.**
 
 - **I am proficient in building scalable, production-ready applications and has knowledge in programming languages such as Java, JavaScript, Python, SQL, and modern frameworks such as React, Tailwind CSS, Node.js, Express.js, and MongoDB. Experienced in working with LLMs, Generative AI, and integrating AI capabilities into real-world platforms.**
@@ -17,11 +15,8 @@
 
 - **Contact** : **chandranil.adhikary16@gmail.com**
 
-- **Connections**:
-<p align="left">
-<a href="https://linkedin.com/in/chandranil-adhikary-8b8862250/" target="blank"></a>
-<a href="https://leetcode.com/u/Chandranil16/" target="blank"></a>
-</p>
-  
+- **LinkedIn** : [linkedin.com/in/chandranil-adhikary](https://linkedin.com/in/chandranil-adhikary-8b8862250/)
+
+- **LeetCode** : [leetcode.com/u/Chandranil16](https://leetcode.com/u/Chandranil16/)
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandranil16&icon=5&color=0)](https://visitcount.itsvg.in)
