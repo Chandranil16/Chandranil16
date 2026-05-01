@@ -12,8 +12,8 @@
 
 - **Contact** : **chandranil.adhikary16@gmail.com**
 
-- **Portfolio** : [chandraniladhikary.onrender.com](https://chandraniladhikary.onrender.com)
+- **Portfolio** : **[chandraniladhikary.onrender.com](https://chandraniladhikary.onrender.com)**
 
-- **LinkedIn** : [linkedin.com/in/chandranil-adhikary](https://linkedin.com/in/chandranil-adhikary-8b8862250/)
+- **LinkedIn** : **[linkedin.com/in/chandranil-adhikary](https://linkedin.com/in/chandranil-adhikary-8b8862250/)**
 
-- **LeetCode** : [leetcode.com/u/Chandranil16](https://leetcode.com/u/Chandranil16/)
+- **LeetCode** : **[leetcode.com/u/Chandranil16](https://leetcode.com/u/Chandranil16/)**
